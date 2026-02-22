@@ -8,7 +8,7 @@ No-build static site for GitHub Pages. This repository folder provides stable HT
 - `privacy/index.html`: privacy policy URL
 - `support/index.html`: support URL with contact + troubleshooting
 - `terms/index.html`: terms of use URL
-- `assets/app-icon.png`: app icon used on the marketing page
+- `assets/app-icon.png`: app icon used on the marketing page and as the site favicon (tab icon)
 - `styles.css`: shared styling
 - `404.html`: custom not-found page for GitHub Pages
 
